@@ -1,4 +1,4 @@
-assets/*
 dat/*
+!dat
 fazer.txt
-_pycache_
+__pycache__
